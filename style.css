@@ -149,8 +149,8 @@ a{text-decoration:none;color:inherit}
 .github-icon svg {
     width: 20px;
     height: 20px;
-    display: block;
     fill: currentColor;
+    display: block;
 }
 }
 .facebook-icon{
