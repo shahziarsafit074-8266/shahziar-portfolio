@@ -142,15 +142,15 @@ a{text-decoration:none;color:inherit}
     font-size:12px;
 }
 .github-icon {
-    background: #181717;
-    color: white;
+    background: #24292f;
+    color: #ffffff;
 }
 
 .github-icon svg {
     width: 18px;
     height: 18px;
-    fill: currentColor;
     display: block;
+    fill: #ffffff;
 }
 }
 .facebook-icon{
