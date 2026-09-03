@@ -160,10 +160,24 @@ a{text-decoration:none;color:inherit}
     font-weight: 600;
     white-space: nowrap;
 }
+.facebook-icon {
+    background: #1877f2;
+    color: #ffffff;
 }
-.facebook-icon{
-    background:linear-gradient(135deg,#1877f2,#0d47a1);
-    font-size:15px;
+
+.facebook-icon svg {
+    width: 18px;
+    height: 18px;
+    display: block;
+    fill: currentColor;
+}
+
+.facebook-label {
+    display: inline-block !important;
+    color: #475569;
+    font-size: 12px;
+    font-weight: 600;
+    white-space: nowrap;
 }
 
 .mail-icon,.phone-icon{
