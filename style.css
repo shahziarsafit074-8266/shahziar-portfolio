@@ -141,9 +141,17 @@ a{text-decoration:none;color:inherit}
     background:linear-gradient(135deg,#0a66c2,#004182);
     font-size:12px;
 }
-.github-icon{
-    background:linear-gradient(135deg,#24292f,#000);
-    font-size:11px;
+.github-icon {
+    background: #181717;
+    color: white;
+}
+
+.github-icon svg {
+    width: 18px;
+    height: 18px;
+    fill: currentColor;
+    display: block;
+}
 }
 .facebook-icon{
     background:linear-gradient(135deg,#1877f2,#0d47a1);
