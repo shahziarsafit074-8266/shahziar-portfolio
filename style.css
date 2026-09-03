@@ -143,14 +143,13 @@ a{text-decoration:none;color:inherit}
 }
 .github-icon {
     background: #24292f;
-    color: #ffffff;
+    color: white;
 }
 
 .github-icon svg {
     width: 18px;
     height: 18px;
     display: block;
-    fill: #ffffff;
 }
 }
 .facebook-icon{
