@@ -161,15 +161,29 @@ a{text-decoration:none;color:inherit}
     white-space: nowrap;
 }
 .facebook-icon {
-    background: #1877f2;
-    color: #ffffff;
+    width: 30px !important;
+    height: 30px !important;
+    background: transparent !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    padding: 0 !important;
 }
 
 .facebook-icon svg {
-    width: 18px;
-    height: 18px;
-    display: block;
-    fill: currentColor;
+    width: 30px !important;
+    height: 30px !important;
+    display: block !important;
+}
+
+.facebook-label {
+    display: inline-block !important;
+    visibility: visible !important;
+    opacity: 1 !important;
+    color: #475569 !important;
+    font-size: 12px !important;
+    font-weight: 600 !important;
+    white-space: nowrap !important;
 }
 
 .facebook-label {
