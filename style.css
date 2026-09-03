@@ -149,8 +149,16 @@ a{text-decoration:none;color:inherit}
 .github-icon svg {
     width: 20px;
     height: 20px;
-    fill: currentColor;
     display: block;
+    fill: currentColor;
+}
+
+.github-label {
+    display: inline-block !important;
+    color: #475569;
+    font-size: 12px;
+    font-weight: 600;
+    white-space: nowrap;
 }
 }
 .facebook-icon{
