@@ -186,14 +186,6 @@ a{text-decoration:none;color:inherit}
     white-space: nowrap !important;
 }
 
-.facebook-label {
-    display: inline-block !important;
-    color: #475569;
-    font-size: 12px;
-    font-weight: 600;
-    white-space: nowrap;
-}
-
 .mail-icon,.phone-icon{
     font-size:12px;
 }
