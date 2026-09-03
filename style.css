@@ -161,8 +161,8 @@ a{text-decoration:none;color:inherit}
     white-space: nowrap;
 }
 .facebook-icon {
-    width: 30px !important;
-    height: 30px !important;
+    width: 20px !important;
+    height: 20px !important;
     background: transparent !important;
     display: flex !important;
     align-items: center !important;
@@ -171,8 +171,8 @@ a{text-decoration:none;color:inherit}
 }
 
 .facebook-icon svg {
-    width: 30px !important;
-    height: 30px !important;
+    width: 20px !important;
+    height: 20px !important;
     display: block !important;
 }
 
