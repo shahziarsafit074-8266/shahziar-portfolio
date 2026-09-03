@@ -161,29 +161,18 @@ a{text-decoration:none;color:inherit}
     white-space: nowrap;
 }
 .facebook-icon {
-    width: 15px !important;
-    height: 15px !important;
-    background: transparent !important;
-    display: flex !important;
-    align-items: center !important;
-    justify-content: center !important;
+    width: 20px !important;
+    height: 20px !important;
+    min-width: 20px !important;
+    min-height: 20px !important;
     padding: 0 !important;
+    background: transparent !important;
 }
 
 .facebook-icon svg {
-    width: 15px !important;
-    height: 15px !important;
+    width: 20px !important;
+    height: 20px !important;
     display: block !important;
-}
-
-.facebook-label {
-    display: inline-block !important;
-    visibility: visible !important;
-    opacity: 1 !important;
-    color: #475569 !important;
-    font-size: 12px !important;
-    font-weight: 600 !important;
-    white-space: nowrap !important;
 }
 
 .mail-icon,.phone-icon{
